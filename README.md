@@ -2,7 +2,7 @@
  
 ## How To Use
 
-To run this application, you will need run the Blackjack.py file
+To run this application, you will need to run the Blackjack.py file
 
 ## Why did I make it?
 
